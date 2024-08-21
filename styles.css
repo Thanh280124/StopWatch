@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(255, 255, 255);
+}
+.container{
+ text-align: center;
+ margin-top: 150px;
+}
+p{
+  font-size: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(250, 141, 159);
+}
+.btn{
+border: none;
+font-size: 20px;
+background-color:rgb(233, 53, 113);
+margin-right: 10px;
+border-radius: 15px;
+padding: 10px 30px 10px 30px;
+color: white;
+letter-spacing: 1px;
+cursor: pointer;
+transition: 0.5s;
+}
+.btn:hover{
+background-color:black;
+color:white;
+}
+
